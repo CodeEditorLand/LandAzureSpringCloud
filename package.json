@@ -457,13 +457,13 @@
 		"onView:azureResourceGroupsV2"
 	],
 	"dependencies": {
-		"axios": "1.7.9",
+		"axios": "1.8.1",
 		"node-stream-zip": "1.15.0",
 		"websocket": "1.0.35"
 	},
 	"devDependencies": {
 		"@types/fs-extra": "11.0.4",
-		"@types/node": "22.13.4",
+		"@types/node": "22.13.9",
 		"@types/request": "2.48.12",
 		"@types/websocket": "1.0.10",
 		"fs-extra": "11.3.0",
